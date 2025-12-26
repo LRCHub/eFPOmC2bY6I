@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "end roll",
+  "base_artist": "m:a.ture",
+  "createdAt": "2025-12-26T04:45:02.154100Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Raiva End Roll",
+      "artist": "UHF",
+      "has_synced": false,
+      "path": "select/01_Raiva_End_Roll_UHF.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "End roll",
+      "artist": "Ayumi Hamasaki",
+      "has_synced": false,
+      "path": "select/02_End_roll_Ayumi_Hamasaki.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "End roll",
+      "artist": "浜崎あゆみ",
+      "has_synced": false,
+      "path": "select/03_End_roll_浜崎あゆみ.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "End roll wa Owaranai",
+      "artist": "AZKi",
+      "has_synced": true,
+      "path": "select/04_End_roll_wa_Owaranai_AZKi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "End Roll (A Best - 15th Anniversary Edition)",
+      "artist": "Ayumi Hamasaki",
+      "has_synced": true,
+      "path": "select/05_End_Roll_(A_Best_-_15th_Anniversary_Edition)_Ayumi_Hamasaki.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "End roll(A BEST -15th Anniversary Edition-)",
+      "artist": "浜崎あゆみ",
+      "has_synced": true,
+      "path": "select/06_End_roll(A_BEST_-15th_Anniversary_Edition-)_浜崎あゆみ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "End Roll",
+      "artist": "sumika",
+      "has_synced": true,
+      "path": "select/07_End_Roll_sumika.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "End Roll (ayu-ro extended mix)",
+      "artist": "Ayumi Hamasaki",
+      "has_synced": false,
+      "path": "select/08_End_Roll_(ayu-ro_extended_mix)_Ayumi_Hamasaki.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "End roll (\"Mumu Dub Mix\")",
+      "artist": "Ayumi Hamasaki",
+      "has_synced": false,
+      "path": "select/09_End_roll_(_Mumu_Dub_Mix_)_Ayumi_Hamasaki.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "End roll",
+      "artist": "Ayumi Hamasaki",
+      "has_synced": true,
+      "path": "select/10_End_roll_Ayumi_Hamasaki.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "End roll - HΛL's MIX",
+      "artist": "Ayumi Hamasaki",
+      "has_synced": false,
+      "path": "select/11_End_roll_-_HΛL's_MIX_Ayumi_Hamasaki.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "End roll \"HΛL's Mix\"",
+      "artist": "浜崎あゆみ",
+      "has_synced": false,
+      "path": "select/12_End_roll__HΛL's_Mix_浜崎あゆみ.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "End roll - NEURO-mantic Mix",
+      "artist": "Ayumi Hamasaki",
+      "has_synced": false,
+      "path": "select/13_End_roll_-_NEURO-mantic_Mix_Ayumi_Hamasaki.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "End roll \"NEURO-mantic Mix\"",
+      "artist": "浜崎あゆみ",
+      "has_synced": false,
+      "path": "select/14_End_roll__NEURO-mantic_Mix_浜崎あゆみ.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "End roll ''Mumu Dub Mix''",
+      "artist": "浜崎あゆみ",
+      "has_synced": false,
+      "path": "select/15_End_roll_''Mumu_Dub_Mix''_浜崎あゆみ.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "End roll (da urban maestro mix)",
+      "artist": "Ayumi Hamasaki",
+      "has_synced": true,
+      "path": "select/16_End_roll_(da_urban_maestro_mix)_Ayumi_Hamasaki.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "End roll ''da urban maesto mix''",
+      "artist": "Ayumi Hamasaki",
+      "has_synced": true,
+      "path": "select/17_End_roll_''da_urban_maesto_mix''_Ayumi_Hamasaki.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "end roll",
+      "artist": "m:a.ture",
+      "has_synced": false,
+      "path": "select/pl_01_end_roll_m_a.ture.txt"
+    }
+  ]
+}
